@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 hello world
 added branch new
 my name is abhi
 good evening
-=======
 another
->>>>>>> d77fe89... added line as another
